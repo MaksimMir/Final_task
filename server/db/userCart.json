@@ -1,0 +1,14 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "quantity": 1,
+            "imgUrl": "img/box_img-2.jpg",
+            "title": "pantsuit",
+            "text": "Known for her sculptural takes on traditional tailoring, Australian arbiter of cool Kym Ellery teams up with Moda Operandi. Ellery teams up with Moda Operandi.",
+            "price": "150.00",
+            "id": 1
+        }
+    ]
+}
